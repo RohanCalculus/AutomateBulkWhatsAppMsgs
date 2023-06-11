@@ -1,7 +1,7 @@
 # 📩 Automating WhatsApp message to send it to different numbers!
 
 ### 🎯 **Aim**           
-_This project is developed for [Spartificial](spartificial.com) to automate the process of sending invitations to students via WhatsApp for their programs and workshops._
+_This project is developed for [Spartificial](https://spartificial.com) to automate the process of sending invitations to students via WhatsApp for their programs and workshops._
 
 ### ➡️ **Guidelines**
 _Follow the steps below:-_
